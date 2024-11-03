@@ -54,3 +54,7 @@ This project showcases the potential of using Ant Colony Optimization to design 
 4. numpy
 5. matplotlib
 6. seaborn
+
+**Published Article**
+
+•	Sanjeev Kumar, Ravendra Singh, **“Design of ensemble classifier selection framework based on ant colony optimization for sentiment analysis and opinion mining”**, International Journal of Innovative Technology and Exploring Engineering, E-ISSN 2278-3075, 2019, volume 8, issue 12, pp. 5112–5117, (Scopus Indexed)
