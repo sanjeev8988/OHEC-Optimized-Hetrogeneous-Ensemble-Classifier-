@@ -64,4 +64,6 @@ This project showcases the potential of using Ant Colony Optimization to design 
 ![image](https://github.com/user-attachments/assets/173e2a5e-e687-4105-b1d3-31ab83eacc87)
 ![image](https://github.com/user-attachments/assets/02d6cd99-2b7b-4243-afba-854de177d762)
 
+Note: OHEC previously known as ECS based Ensemble Classifier.
+
 
